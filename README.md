@@ -7,8 +7,11 @@ This is a stock dashboard application built with React and Tailwind CSS. It allo
 ## Features
 
 - **Stock Search:** Enter stock symbols to search and view detailed information.
+     ![Search Feature](src/assets/search.gif)
 - **Chart Filters:** Filter data by day, week, month, or year to analyze stock trends.
+   ![Search Feature](src/assets/date-filter.gif)
 - **Theme Selector:** Toggle between light and dark themes to suit your preference.
+   ![Search Feature](src/assets/theme.gif)
 - **Responsive Design:** Optimized for both desktop and mobile views.
 - **Smooth Transitions:** CSS transitions for a seamless user experience, including hover effects on buttons and icons.
 
